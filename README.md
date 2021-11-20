@@ -1,1 +1,2 @@
-# Grover-Search-Algorithm
+# Quantum Algorithms
+
